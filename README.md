@@ -1,7 +1,6 @@
 # Hi, I'm Ritsu 👋
 
-Japanese university student interested in **system engineering**,
-**web application development**, and **IT consulting**.
+Japanese university student, soon to start my career as an **Application Engineer** in Japan.
 
 I mainly study and develop with:
 
@@ -43,17 +42,10 @@ I mainly study and develop with:
 
 ---
 
-## 📫 Contact
-
-If you are interested in my work, feel free to check my repositories
-or contact me via Entry Sheet / resume.
-
----
-
 # 🇯🇵 日本語版プロフィール
 
 こんにちは、律人（Ritsu）です 👋
-**システムエンジニアリング**、**Webアプリ開発**、**ITコンサルティング**に興味があります。
+日本の大学生で、これからアプリケーションエンジニアとしてのキャリアをスタートします。
 
 主に学習・開発している技術:
 
